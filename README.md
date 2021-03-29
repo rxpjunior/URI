@@ -1,2 +1,1 @@
-# URI
-Repositório de resolução de exercícios do URI 
+### Solução dos problemas do site URI Online Judge
