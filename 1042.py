@@ -1,5 +1,12 @@
 entrada = input()
 vetEntrada = entrada.split(" ")
-vetInt = []
+vetInteiros = []
 for x in vetEntrada:
-    vetInt.append(x)
+    vetInteiros.append(int(x))
+vetInteiros.sort()
+for x in vetInteiros:
+    print(x)
+print()
+for x in vetEntrada:
+    print(x)
+
