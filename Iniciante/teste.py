@@ -18,3 +18,7 @@ f_i = 100.0
 s = f_i.is_integer()
 print(s)
 # True
+
+inteiro = 10
+decimal = 10.0
+resp = decimal.is
